@@ -75,6 +75,3 @@ Below is the screenshot of the Myntrs Brand Dashboard:
 
  # Conclusion
  This power bi project helps businessman make data-driven decisions. It includes predictive analytics and visualizations for better decision making.
-
-
-below is the screenshot of Myntra Brand Dashboard:
