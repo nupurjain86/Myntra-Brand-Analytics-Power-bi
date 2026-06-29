@@ -65,7 +65,8 @@ Ranks the top-performing brands based on their average customer ratings.
 
 # Project Dashboard View
 Below is the screenshot of the Myntrs Brand Dashboard:
-<img width="511" height="305" alt="Screenshot 2026-06-29 172215" src="https://github.com/user-attachments/assets/830f1785-2972-4b98-af8d-0b1121c29e0e" />
+<img width="605" height="342" alt="Screenshot 2026-06-29 161652" src="https://github.com/user-attachments/assets/6aa869ec-9947-432e-a874-a82900a9812e" />
+
 
 # Application Used
  Power BI- For data visualization and dashboard creation.
